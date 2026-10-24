@@ -11,7 +11,7 @@ body {
 .bemvindo {
     display: flex;
     flex-direction: column;
-    margin: 5px 0 10px 30px;
+    margin: 15px 0 10px 30px;
 }
 
 p {
@@ -58,7 +58,7 @@ p {
     gap: 15;
     background-color: white;
     padding: 12px;
-    margin: 20px;
+    margin: 40px;
     border-radius: 15px;
 }
 
